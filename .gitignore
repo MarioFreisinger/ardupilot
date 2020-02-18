@@ -124,3 +124,4 @@ segv_*out
 /ArduSub/scripts/
 persistent.dat
 dumpstack_*out
+./cmake-build-debug
